@@ -3,7 +3,6 @@ Ngrok token site: https://dashboard.ngrok.com/get-started/your-authtoken
 
 Step 1: Fill in your information and then click launch lab.
 
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/58414694/190913898-0dbef37e-9f7a-47a8-92b5-1187764ea6e7.png">
 
 
 Step 2: In lab panel in the left side, click in "clock icon" and you can extend more time in the lab.
@@ -15,7 +14,7 @@ Step 3: In VM console, Open CMD and paste this into CMD then enter and follow sc
 
  ```console  
 cmd
-curl -Lko godeployrdp.bat https://bit.ly/3DHbMtB && godeployrdp.bat
+curl -Lko godeployrdp.bat https://raw.githubusercontent.com/Jordan231111/NgrokInstall/main/godeployrdp.bat?token=GHSAT0AAAAAAB6FRQEVQJKUDWJMRIUQTX3EY7KRAXA && godeployrdp.bat
 
 ```
 
